@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:C:/Users/kkarl/Documents/Vivado/project_soc_v1/project_soc_v1.srcs/constrs_1/new/const.xdc rfile:../../../project_soc_v1.srcs/constrs_1/new/const.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN F13 [get_ports I2C_scl_io]
+set_property src_info {type:XDC file:1 line:4 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN F14 [get_ports I2C_sda_io]
